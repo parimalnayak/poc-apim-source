@@ -1,3 +1,3 @@
 # poc-apim-source
-# adding comments
+# adding comments as it is
 The artifacts required for WSO2 APIM
